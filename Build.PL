@@ -13,6 +13,7 @@ my $builder = Module::Build->new(
         'Carp'                      =>  '1.08',
         'Moose'                     =>  '0.93',
         'MooseX::NonMoose'          =>  '0.07',
+        'Statistics::PCA'           =>  '0.0.1',
         'Statistics::PCA::Varimax'  =>  '0.0.2',
         'Math::GSL::Linalg::SVD'    =>  '0.0.2', 
         'List::Util'                =>  '1.22',
